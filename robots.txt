@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rsipari.github.io/juhotesti/sitemap.xml

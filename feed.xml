@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>juhon portofolio</title>
+    <link href="https://rsipari.github.io/juhotesti/feed.xml" rel="self" />
+    <link href="https://rsipari.github.io/juhotesti" />
+    <updated>2022-01-24T21:51:02+02:00</updated>
+    <author>
+        <name>juho juismin</name>
+    </author>
+    <id>https://rsipari.github.io/juhotesti</id>
+
+    <entry>
+        <title>Juholla on hieno sivu</title>
+        <author>
+            <name>juho juismin</name>
+        </author>
+        <link href="https://rsipari.github.io/juhotesti/juholla-on-hieno-sivu.html"/>
+        <id>https://rsipari.github.io/juhotesti/juholla-on-hieno-sivu.html</id>
+
+        <updated>2022-01-24T21:51:02+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Sivulle voi upottaa kuvia ja sit kertoa niistä ja lisätä giffejä ja laittaa youtube embeddiä 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image">Sivulle voi upottaa kuvia<br><img loading="lazy"  src="https://rsipari.github.io/juhotesti/media/posts/1/pohjapiirros.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://rsipari.github.io/juhotesti/media/posts/1/responsive/pohjapiirros-xs.png 300w ,https://rsipari.github.io/juhotesti/media/posts/1/responsive/pohjapiirros-sm.png 480w ,https://rsipari.github.io/juhotesti/media/posts/1/responsive/pohjapiirros-md.png 768w ,https://rsipari.github.io/juhotesti/media/posts/1/responsive/pohjapiirros-lg.png 1024w"  alt="" width="306" height="433"></figure>
+<p>ja sit kertoa niistä</p>
+<p>ja lisätä giffejä</p>
+<figure class="post__image"><img loading="lazy"  src="https://rsipari.github.io/juhotesti/media/posts/1/giphy.gif" alt="" width="500" height="490"></figure>
+<p>ja laittaa youtube embeddiä</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/7kHMJpkh9s4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+</feed>
